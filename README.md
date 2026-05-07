@@ -1,50 +1,17 @@
-# Convertisseur de Température
+Convertisseur de Température
 
-## Description
+Ce projet permet de convertir des températures en Celsius, Fahrenheit et Kelvin.
 
-Ce projet est un convertisseur de température développé avec HTML, CSS et JavaScript.
+Le projet a été réalisé avec :
+HTML
+CSS
+JavaScript
 
-L’utilisateur peut convertir :
+Fonctionnement :
+Quand on entre une valeur dans un champ, les autres champs se mettent automatiquement à jour.
 
-- Celsius
-- Fahrenheit
-- Kelvin
+Pour lancer le projet :
+Ouvrir le fichier index.html dans le navigateur.
 
-Lorsque la valeur d’un champ change, les autres champs sont automatiquement mis à jour.
-
----
-
-## Technologies utilisées
-
-- HTML5
-- CSS3
-- JavaScript
-
----
-
-## Fonctionnalités
-- Conversion automatique
-- Interface moderne
-- Utilisation des événements JavaScript
-- Utilisation de l’instruction switch
-
----
-
-## Comment exécuter le projet
-
-1. Télécharger le projet
-2. Ouvrir le dossier
-3. Double-cliquer sur `index.html`
-4. Le projet s’ouvre dans le navigateur
-
----
-
-## Structure du projet
-
-```bash
-projet/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+Auteur :
+Bertrand
